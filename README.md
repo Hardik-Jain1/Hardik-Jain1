@@ -4,7 +4,7 @@ I am an enthusiastic and dedicated learner and try to enlighten me in this world
 
 
 ### Skills
-* Python (Numpy, Pandas, Matplotlib, Seaborn)
+* Python (Numpy, Pandas, Matplotlib, Seaborn, ScikitLearn, Tensorflow, Pytorch)
 * MySQL
 * Statistics, Exploratory Data Analysis
 * Machine Learning Algorithms (Regresion, Classification, Clustering)
