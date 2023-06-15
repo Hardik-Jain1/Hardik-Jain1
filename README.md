@@ -1,4 +1,4 @@
-#                                                         Hi 👋 Hardik Jain here
+#                                                         Hi 👋 I am Hardik Jain
 
 I am an enthusiastic and dedicated learner and try to enlighten me in this world of computers. Being an AI & technology enthusiast, I love to explore about new technologies. I'm a Data Science Undergraduate from Indian Institute of Technology Madras.
 
