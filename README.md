@@ -1,6 +1,6 @@
 #                                                         Hi 👋 I am Hardik Jain
 
-I am an enthusiastic and dedicated learner and try to enlighten myself in this world of computers. Being an AI & technology enthusiast, I love to explore new technologies. I'm a Data Science Undergraduate from the Indian Institute of Technology Madras.
+I am a Tech enthusiast, trying to enlighten myself in this world of computers. Being an AI & technology enthusiast, I love to explore new technologies. I'm a Data Science Undergraduate from the Indian Institute of Technology Madras.
 
 
 ### Skills
