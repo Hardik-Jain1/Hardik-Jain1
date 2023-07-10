@@ -43,3 +43,6 @@ I am a tech enthusiast, trying to enlighten myself in this world of computers. B
             alt="mysql" width="40" height="40" /> </a>
 
 </p>
+
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/hardik-jain-9b36a1227/" ><img align="center" src="https://www.svgrepo.com/show/81143/linkedin.svg" height=40px  wieght=40px /></a>
