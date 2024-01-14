@@ -13,7 +13,7 @@ I am a tech enthusiast, trying to enlighten myself in this world of computers. B
 * Generative AI (LLM)
 * Web Development with Python (HTML, CSS, Bootstrap, Vue.js, Flask)
   
-  Currently open for Research & Technical Internships in the field of Data Science or ML or Deep Learning
+  Currently open for Research & Technical Internships in the field of Data Science or ML or Deep Learning or Generative AI
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
