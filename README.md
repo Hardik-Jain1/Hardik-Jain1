@@ -10,6 +10,7 @@ I am a tech enthusiast, trying to enlighten myself in this world of computers. B
 * Machine Learning Algorithms (Regression, Classification, Clustering)
 * Deep Learning (ANN, RNN, CNN)
 * Computer Vision, Natural Language Processing
+* Generative AI (LLM)
 * Web Development with Python (HTML, CSS, Bootstrap, Flask)
   
   Currently open for Research & Technical Internships in the field of Data Science or ML or Deep Learning
