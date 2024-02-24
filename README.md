@@ -4,13 +4,14 @@ I am a tech enthusiast, trying to enlighten myself in this world of computers. B
 
 
 ### Proficient in -
+* Generative AI (LLM, LangChain, OpenAI, Transformers)
 * Python (Numpy, Pandas, Matplotlib, Seaborn, ScikitLearn, Tensorflow, Pytorch)
 * MySQL, Linux
 * Statistics, Exploratory Data Analysis
 * Machine Learning Algorithms (Regression, Classification, Clustering)
 * Deep Learning (ANN, RNN, CNN)
 * Computer Vision, Natural Language Processing
-* Generative AI (LLM, LangChain, OpenAI, Transformers)
+
 * Web Development with Python (HTML, CSS, Bootstrap, Vue.js, Flask)
   
   Currently open for Research & Technical Internships in the field of Generative AI or Deep Learning or Machine Learning or Data Science
