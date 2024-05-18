@@ -4,7 +4,7 @@ I am a tech enthusiast, trying to enlighten myself in this world of computers. B
 
 
 ### Proficient in -
-* Generative AI (LLM, LangChain, OpenAI, Transformers)
+* Generative AI (LLM, LangChain, CrewAI, OpenAI, Transformers)
 * Python (Numpy, Pandas, Matplotlib, Seaborn, ScikitLearn, Tensorflow, Pytorch)
 * MySQL, Linux
 * Statistics, Exploratory Data Analysis
