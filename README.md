@@ -14,18 +14,12 @@ I am a tech enthusiast, trying to enlighten myself in this world of computers. B
 
 * Web Development with Python (HTML, CSS, Bootstrap, Vue.js, Flask)
   
-  Currently open for Research & Technical Internships in the field of Generative AI or Deep Learning or Machine Learning or Data Science
+  Currently open for Technical Opportunities in the field of AI/ML or Data Science
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-          <a href="https://www.langchain.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/LangChain_logo.svg"
-                alt="bootstrap" width="40" height="40" /> </a>
-          &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
           <a href="https://www.python.org" target="_blank"> <img src="https://www.svgrepo.com/show/452091/python.svg"
                 alt="python" width="40" height="40" /> </a> 
-          &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-           <a href="https://flask.palletsprojects.com/" target="_blank">
-            <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" /></a>
           &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
         <a href="https://scikit-learn.org/" target="_blank"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"
