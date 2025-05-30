@@ -1,54 +1,57 @@
 #                                                         Hi 👋 I am Hardik Jain
 
-I am a tech enthusiast, trying to enlighten myself in this world of computers. Being an AI & technology enthusiast, I love to explore new technologies. I'm a Data Science Undergraduate from the Indian Institute of Technology Madras.
+🎓 B.Tech Graduate in Artificial Intelligence & Data Science  
+🤖 AI & Technology Enthusiast | Generative AI Practitioner  
+🚀 Passionate about building intelligent systems and impactful solutions
 
 
-### Proficient in -
-* Generative AI (LLM, LangChain, CrewAI, OpenAI, Transformers)
-* Python (Numpy, Pandas, Matplotlib, Seaborn, ScikitLearn, Tensorflow, Pytorch)
-* MySQL, Linux
-* Statistics, Exploratory Data Analysis
-* Machine Learning Algorithms (Regression, Classification, Clustering)
-* Deep Learning (ANN, RNN, CNN)
-* Computer Vision, Natural Language Processing
+## About Me
 
-* Web Development with Python (HTML, CSS, Bootstrap, Vue.js, Flask)
-  
-  Currently open for Technical Opportunities in the field of AI/ML or Data Science
+I’m a tech-driven individual exploring the world of Artificial Intelligence and Machine Learning. I specialize in building real-world AI/ML applications, from LLM-powered systems to deep learning models.
 
-<h3 align="left">Languages and Tools:</h3>
+
+## My Skills
+
+- **Programming Languages:** Python, SQL (MySQL, PostgreSQL), JavaScript
+- **Machine Learning & AI Frameworks:** LangChain, CrewAI, Hugging Face Transformers, TensorFlow, PyTorch, Scikit-learn
+- **Generative AI & NLP:** LLMs, RAG Systems, Agentic Workflows, Natural Language Processing, Computer Vision, Deep Learning (CNN, RNN)
+- **Data Science & Analytics:** Pandas, NumPy, Matplotlib, Seaborn, Streamlit, Statistical Modeling, Predictive Analytics, Data Analysis
+- **Web & Application Development:** Flask, Vue.js
+- **Tools & Platforms:** Git, Linux, VS Code, Jupyter Notebook
+
+
+## Currently Open To
+
+📬 Looking for full time opportunities in:
+- AI/ML Engineering
+- Data Science & Analytics
+- Research on LLMs / NLP / Applied GenAI
+
+
+## Languages & Tools
+
 <p align="left">
-          <a href="https://www.python.org" target="_blank"> <img src="https://www.svgrepo.com/show/452091/python.svg"
-                alt="python" width="40" height="40" /> </a> 
-          &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-        <a href="https://scikit-learn.org/" target="_blank"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"
-            width="40" height="40" /> </a>
-          &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-        <a href="https://www.tensorflow.org" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
-            height="40" /> </a>
-          &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-        <a href="https://pytorch.org/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" /></a>
-        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-        <a href="https://www.w3.org/html/" target="_blank"> <img
-            src="https://www.svgrepo.com/show/452228/html-5.svg"
-            alt="html5" width="40" height="40" /> </a>
-        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-        <a href="https://www.w3schools.com/css/" target="_blank">
-            <img src="https://www.svgrepo.com/show/452185/css-3.svg"
-                alt="css3" width="40" height="40" /> </a>
-        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-        <a href="https://getbootstrap.com" target="_blank"> <img
-            src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"
-            alt="bootstrap" width="40" height="40" /> </a>
-        &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-        <a href="https://www.mysql.com" target="_blank"> <img
-            src="https://www.svgrepo.com/show/508802/dbs-mysql.svg"
-            alt="mysql" width="40" height="40" /> </a>
-
+    <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" width="40"/>
+    <img src="https://raw.githubusercontent.com/LangChainAI/langchain/master/docs/static/img/favicon.ico" alt="LangChain" width="40"/>
+    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="40"/>
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40"/>
+    <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width="40"/>
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80"/>
+    <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="Streamlit" width="80"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"/>
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40"/>
+    <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40"/>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+## Connect With Me
+
 <a href="https://www.linkedin.com/in/hardik-jain-9b36a1227/" ><img align="center" src="https://www.svgrepo.com/show/81143/linkedin.svg" height=40px  wieght=40px /></a>
