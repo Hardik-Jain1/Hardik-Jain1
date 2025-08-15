@@ -13,11 +13,11 @@ I’m a tech-driven individual exploring the world of Artificial Intelligence an
 ## My Skills
 
 - **Programming Languages:** Python, SQL (MySQL, PostgreSQL), JavaScript
-- **Machine Learning & AI Frameworks:** LangChain, CrewAI, Hugging Face Transformers, TensorFlow, PyTorch, Scikit-learn
-- **Generative AI & NLP:** LLMs, RAG Systems, Agentic Workflows, Natural Language Processing, Computer Vision, Deep Learning (CNN, RNN)
+- **Machine Learning & AI Frameworks:** LangChain, CrewAI, Hugging Face Transformers, Smolagents, TensorFlow, PyTorch, Scikit-learn
+- **Generative AI & NLP:** LLMs, RAG Systems, Agentic Workflows, ACP, MCP, Natural Language Processing, Computer Vision, Deep Learning (CNN, RNN)
 - **Data Science & Analytics:** Pandas, NumPy, Matplotlib, Seaborn, Streamlit, Statistical Modeling, Predictive Analytics, Data Analysis
 - **Web & Application Development:** Flask, Vue.js
-- **Tools & Platforms:** Git, Linux, VS Code, Jupyter Notebook
+- **Cloud & Deployment:** GCP (Vertex AI, Cloud Run, Cloud Build), AWS (Familiar), Docker, Kubernetes, CI/CD, Git, Github, Linux
 
 
 ## Currently Open To
