@@ -116,9 +116,27 @@ const Hardik Jain = {
 *Each project represents hours of innovation and problem-solving*
 
 </div>
-
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### 🏥 **HMACS - Healthcare Multi-Agent System**
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=flat-square&logo=github)](#)
+
+**The Problem**: Complex healthcare queries need specialized expertise  
+**My Solution**: Distributed multi-agent AI system for intelligent healthcare and insurance query handling through specialized agents  
+
+🎯 **What it does**:
+- Intelligent query routing & classification
+- RAG-powered insurance policy assistance
+- Multi-framework agent communication (ACP/MCP)
+
+⚡ **Tech Magic**: CrewAI + Smolagents + ACP/MCP + RAG
+
+&nbsp;
+&nbsp;
+
+</td>
 <td width="50%" valign="top">
 
 ### 🔬 **Lexify - AI Research Assistant**
@@ -134,10 +152,9 @@ const Hardik Jain = {
 
 ⚡ **Tech Magic**: LangChain + Qdrant + RAG + Gemini
 
-&nbsp;
-&nbsp;
-
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🤖 **ResPer - Paper-to-Code AI**  
@@ -154,8 +171,6 @@ const Hardik Jain = {
 ⚡ **Tech Magic**: CrewAI + LangChain + Multi-Agent Systems
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 💬 **WebChat - Website Intelligence**
@@ -171,11 +186,9 @@ const Hardik Jain = {
 
 ⚡ **Tech Magic**: Python + LangChain + RAG + GPT
 
-&nbsp;
-&nbsp;
-&nbsp;
-
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📰 **NewsSum - Smart Summarization**
@@ -191,8 +204,9 @@ const Hardik Jain = {
 
 ⚡ **Tech Magic**: Hugging Face + BART + Fine-tuning
 
-&nbsp;
-&nbsp;
+</td>
+<td width="50%" valign="top">
+
 &nbsp;
 
 </td>
