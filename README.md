@@ -89,7 +89,7 @@ const Hardik Jain = {
 
 </div>
 
-### 🌟 **Machine Learning Engineer @ Sembly Inc** 
+### 🌟 **Machine Learning Intern @ Sembly Inc** 
 *Singapore (Remote) | June 2024 - October 2024*
 
 <div>
