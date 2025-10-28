@@ -120,8 +120,29 @@ const Hardik Jain = {
 <tr>
 <td width="50%" valign="top">
 
+### 🎫 **SupportFlow AI - Customer Support Automation**
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=flat-square&logo=github)](https://github.com/Hardik-Jain1/supportflow-ai.git)
+
+**The Problem**: Support teams overwhelmed with tickets, slow response times, manual triage  
+**My Solution**: End-to-end multi-agent system automating support workflows from classification to execution with human-in-the-loop  
+
+🎯 **What it does**:
+- Intelligent ticket triage (8 categories + urgency)
+- RAG-powered knowledge retrieval (FAISS/Qdrant)
+- AI reply drafting with redraft cycles
+- Action suggestions & safe execution (MCP)
+- Human review with approval gates
+
+⚡ **Tech Magic**: LangGraph + CrewAI + LangChain + ACP/MCP + RAG
+
+&nbsp;
+&nbsp;
+
+</td>
+<td width="50%" valign="top">
+
 ### 🏥 **HMACS - Healthcare Multi-Agent System**
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=flat-square&logo=github)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=flat-square&logo=github)](https://github.com/Hardik-Jain1/healthcare-multi-agent-communication-system.git)
 
 **The Problem**: Complex healthcare queries need specialized expertise  
 **My Solution**: Distributed multi-agent AI system for intelligent healthcare and insurance query handling through specialized agents  
@@ -137,6 +158,8 @@ const Hardik Jain = {
 &nbsp;
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔬 **Lexify - AI Research Assistant**
@@ -153,8 +176,6 @@ const Hardik Jain = {
 ⚡ **Tech Magic**: LangChain + Qdrant + RAG + Gemini
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🤖 **ResPer - Paper-to-Code AI**  
@@ -171,6 +192,8 @@ const Hardik Jain = {
 ⚡ **Tech Magic**: CrewAI + LangChain + Multi-Agent Systems
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 💬 **WebChat - Website Intelligence**
@@ -187,8 +210,6 @@ const Hardik Jain = {
 ⚡ **Tech Magic**: Python + LangChain + RAG + GPT
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📰 **NewsSum - Smart Summarization**
