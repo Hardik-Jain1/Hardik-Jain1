@@ -121,7 +121,7 @@ const Hardik Jain = {
 <td width="50%" valign="top">
 
 ### 🎫 **SupportFlow AI - Agentic Customer Support Automation**
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=flat-square&logo=github)](https://github.com/Hardik-Jain1/supportflow-ai.git)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=flat-square&logo=github)](https://github.com/Hardik-Jain1/supportflow-ai)
 
 **The Problem**: Support teams overwhelmed with tickets, slow response times, manual triage  
 **My Solution**: End-to-end multi-agent system automating support workflows from classification to execution with human-in-the-loop  
@@ -135,31 +135,7 @@ const Hardik Jain = {
 
 ⚡ **Tech Magic**: LangGraph + CrewAI + LangChain + ACP/MCP + RAG
 
-&nbsp;
-&nbsp;
-
 </td>
-<td width="50%" valign="top">
-
-### 🏥 **HMACS - Healthcare Multi-Agent System**
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=flat-square&logo=github)](https://github.com/Hardik-Jain1/healthcare-multi-agent-communication-system.git)
-
-**The Problem**: Complex healthcare queries need specialized expertise  
-**My Solution**: Distributed multi-agent AI system for intelligent healthcare and insurance query handling through specialized agents  
-
-🎯 **What it does**:
-- Intelligent query routing & classification
-- RAG-powered insurance policy assistance
-- Multi-framework agent communication (ACP/MCP)
-
-⚡ **Tech Magic**: CrewAI + Smolagents + ACP/MCP + RAG
-
-&nbsp;
-&nbsp;
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🔬 **Lexify - AI Research Assistant**
@@ -174,6 +150,24 @@ const Hardik Jain = {
 - Conversational research interface
 
 ⚡ **Tech Magic**: LangChain + Qdrant + RAG + Gemini
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 **HMACS - Healthcare Multi-Agent System**
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=flat-square&logo=github)](https://github.com/Hardik-Jain1/healthcare-multi-agent-communication-system)
+
+**The Problem**: Complex healthcare queries need specialized expertise  
+**My Solution**: Distributed multi-agent AI system for intelligent healthcare and insurance query handling through specialized agents  
+
+🎯 **What it does**:
+- Intelligent query routing & classification
+- RAG-powered insurance policy assistance
+- Multi-framework agent communication (ACP/MCP)
+
+⚡ **Tech Magic**: CrewAI + Smolagents + ACP/MCP + RAG
 
 </td>
 <td width="50%" valign="top">
