@@ -120,7 +120,7 @@ const Hardik Jain = {
 <tr>
 <td width="50%" valign="top">
 
-### 🎫 **SupportFlow AI - Customer Support Automation**
+### 🎫 **SupportFlow AI - Agentic Customer Support Automation**
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=flat-square&logo=github)](https://github.com/Hardik-Jain1/supportflow-ai.git)
 
 **The Problem**: Support teams overwhelmed with tickets, slow response times, manual triage  
