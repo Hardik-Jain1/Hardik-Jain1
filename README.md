@@ -122,6 +122,8 @@ const Hardik Jain = {
 
 ### 🎫 **SupportFlow AI - Agentic Customer Support Automation**
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=flat-square&logo=github)](https://github.com/Hardik-Jain1/supportflow-ai)
+&nbsp;
+[![Demo](https://img.shields.io/badge/Demo-Watch_Video-red?style=flat-square&logo=youtube)](https://github.com/Hardik-Jain1/supportflow-ai?tab=readme-ov-file#-video-demo)
 
 **The Problem**: Support teams overwhelmed with tickets, slow response times, manual triage  
 **My Solution**: End-to-end multi-agent system automating support workflows from classification to execution with human-in-the-loop  
@@ -140,6 +142,8 @@ const Hardik Jain = {
 
 ### 🔬 **Lexify - AI Research Assistant**
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=flat-square&logo=github)](https://github.com/Hardik-Jain1/lexify-research-asssistant)
+&nbsp;
+[![Demo](https://img.shields.io/badge/Demo-Watch_Video-red?style=flat-square&logo=youtube)](https://github.com/Hardik-Jain1/lexify-research-asssistant?tab=readme-ov-file#-demo-video)
 
 **The Problem**: Research paper discovery is time-consuming  
 **My Solution**: AI-powered research companion, streamlining the process of finding, reviewing, and summarising the literature (reserach papers) and allowing conversational interactions  
