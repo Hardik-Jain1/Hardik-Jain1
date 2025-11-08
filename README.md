@@ -1,12 +1,14 @@
 <div align="center">
 
-# ✨ Welcome to My Digital Universe ✨
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:4ECDC4,100:FF6B6B&height=200&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Where%20AI%20Meets%20Innovation&descAlignY=55&descSize=20"/>
 
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Hardik+Jain;AI%2FML+Engineer;Generative+AI+Specialist;Building+Intelligent+Systems" alt="Typing SVG" />
 </div>
+
+<br>
 
 <div align="center">
   
@@ -29,24 +31,44 @@
 
 ```typescript
 const Hardik Jain = {
-    title: "AI/ML Engineer & Generative AI Specialist",
-    location: "Remote",
-    education: {
-        "IIT Madras": "B.S Data Science and Applications (CGPA: 9.6/10) 🏆",
-        "CTAE Udaipur": "B.Tech AI & Data Science (CGPA: 8.1/10)"
+  name: "Hardik Jain",
+  title: "AI/ML Engineer & Generative AI Specialist",
+  location: "🌍 Remote | Open to Relocation",
+  
+  education: {
+    "IIT Madras 🏛️": {
+      degree: "B.S Data Science and Applications",
+      cgpa: "9.6/10 🏆",
+      distinction: "Gold Medal Award Winner"
     },
-    specialties: [
-        "🤖 Intelligent Agent Systems",
-        "🧠 Large Language Models",
-        "🔍 RAG Systems",
-        "📊 Multi-Agent Workflows",
-        "📈 MLOps & Model Deployment",
-        "🌐 API Development & System Integration"
-    ],
-    currentFocus: "Building scalable AI systems that transform data into insights",
-    openTo: ["Full-time AI/ML Roles", "Data Scientist", "Generative AI Research", "Startup Opportunities"]
+    "CTAE Udaipur 🎓": {
+      degree: "B.Tech AI & Data Science",
+      cgpa: "8.1/10"
+    }
+  },
+  
+  coreSpecialties: [
+    "🤖 Intelligent Multi-Agent Systems",
+    "🧠 Large Language Models (LLMs)",
+    "🔍 Retrieval-Augmented Generation (RAG)",
+    "📊 Autonomous AI Workflows",
+    "📈 MLOps & Model Deployment",
+    "🌐 Production-Ready API Development"
+  ],
+  
+  currentMission: `Building scalable AI systems that seamlessly combine 
+           data, models, and user signals to transform insights 
+           into intelligent actions`,
+  
+  openTo: [
+    "💼 Full-time AI/ML Engineering Roles",
+    "📊 Data Science Positions",
+    "🔬 Generative AI Research",
+    "🚀 Startup & Early-Stage Opportunities"
+  ]
 };
 ```
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
 
@@ -82,7 +104,7 @@ const Hardik Jain = {
 </tr>
 </table>
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
 
@@ -109,6 +131,7 @@ const Hardik Jain = {
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
 
@@ -233,7 +256,7 @@ const Hardik Jain = {
 </tr>
 </table>
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
 
@@ -304,7 +327,7 @@ const Hardik Jain = {
 
 </div>
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
 
@@ -333,7 +356,7 @@ const Hardik Jain = {
 </tr>
 </table>
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
 
@@ -366,17 +389,22 @@ const Hardik Jain = {
 </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
+<div align="center">
 
-<div align="left">
+## 📈 Github Stats
 
-## 📈 Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik-Jain1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardik-Jain1&theme=radical&hide_border=true&background=0d1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=4ECDC4" alt="GitHub Streak" width="49%"/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik-Jain1&layout=compact&theme=radical&hide_border=true)](https://github.com/Hardik-Jain1)
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hardik-Jain1&bg_color=0d1117&color=00D9FF&line=4ECDC4&point=FF6B6B&area=true&hide_border=true" alt="Activity Graph" width="98%"/>
 
 </div>
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
 
@@ -406,7 +434,7 @@ const Hardik Jain = {
 </tr>
 </table>
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
 
@@ -418,8 +446,7 @@ const Hardik Jain = {
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jnharsh121@example.com)
 
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=120&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70"/>
 
 </div>
 
