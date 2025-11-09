@@ -144,7 +144,7 @@ const Hardik Jain = {
 <tr>
 <td width="50%" valign="top">
 
-### 🎫 **SupportFlow AI - Agentic Customer Support Automation**
+### 🎫 **SupportFlow AI - Agentic Customer Support Automation** ⭐
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=flat-square&logo=github)](https://github.com/Hardik-Jain1/supportflow-ai)
 &nbsp;
 [![Demo](https://img.shields.io/badge/Demo-Watch_Video-red?style=flat-square&logo=youtube)](https://github.com/Hardik-Jain1/supportflow-ai?tab=readme-ov-file#-video-demo)
@@ -159,12 +159,12 @@ const Hardik Jain = {
 - Action suggestions & safe execution (MCP)
 - Human review with approval gates
 
-⚡ **Tech Magic**: LangGraph + CrewAI + LangChain + ACP/MCP + RAG
+⚡ **Tech Magic**: LangGraph + CrewAI + LangChain + MCP/ACP + RAG
 
 </td>
 <td width="50%" valign="top">
 
-### 🔬 **Lexify - AI Research Assistant**
+### 🔬 **Lexify - AI Research Assistant** ⭐
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?style=flat-square&logo=github)](https://github.com/Hardik-Jain1/lexify-research-asssistant)
 &nbsp;
 [![Demo](https://img.shields.io/badge/Demo-Watch_Video-red?style=flat-square&logo=youtube)](https://github.com/Hardik-Jain1/lexify-research-asssistant?tab=readme-ov-file#-demo-video)
@@ -195,7 +195,7 @@ const Hardik Jain = {
 - RAG-powered insurance policy assistance
 - Multi-framework agent communication (ACP/MCP)
 
-⚡ **Tech Magic**: CrewAI + Smolagents + ACP/MCP + RAG
+⚡ **Tech Magic**: CrewAI + Smolagents + MCP/ACP + RAG
 
 </td>
 <td width="50%" valign="top">
