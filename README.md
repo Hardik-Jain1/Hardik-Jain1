@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:4ECDC4,100:FF6B6B&height=200&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Where%20AI%20Meets%20Innovation&descAlignY=55&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:4ECDC4,100:FF6B6B&height=200&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 </div>
 
@@ -68,7 +68,6 @@ const Hardik Jain = {
   ]
 };
 ```
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
 
@@ -104,7 +103,7 @@ const Hardik Jain = {
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 
 <div align="center">
 
@@ -117,13 +116,13 @@ const Hardik Jain = {
 
 <div>
 
-**🔥 Key Achievements:**
+**Key Achievements:**
 
-- **🤖 Multi-Agent AI Workflows**: Collaborated on Perspective and Topic Tagging systems that enhanced recommendation algorithms on discussion platforms by improving content relevance and user engagement
-- **🌐 Web Search RAG System**: Developed a Retrieval-Augmented Generation system that improved response accuracy by dynamically retrieving relevant web information, significantly enhancing user interaction quality  
-- **📝 Automated Web Citation System**: Built an intelligent reference integration system that automatically enhanced user-generated posts with credible external sources, improving overall content quality and credibility
-- **🏷️ Issue Tagging**: Designed domain-specific content analysis solutions using LLMs to identify and address issues in posts within specialized discussion spaces
-- **🛡️ Spam Detection System**: Implemented LLM-powered filtering mechanisms that effectively identified and removed low-quality and irrelevant profiles, maintaining platform integrity
+- **Multi-Agent AI Workflows**: Collaborated on Perspective and Topic Tagging systems that enhanced recommendation algorithms on discussion platforms by improving content relevance and user engagement
+- **Web Search RAG System**: Developed a Retrieval-Augmented Generation system that improved response accuracy by dynamically retrieving relevant web information, significantly enhancing user interaction quality  
+- **Automated Web Citation System**: Built an intelligent reference integration system that automatically enhanced user-generated posts with credible external sources, improving overall content quality and credibility
+- **Issue Tagging**: Designed domain-specific content analysis solutions using LLMs to identify and address issues in posts within specialized discussion spaces
+- **Spam Detection System**: Implemented LLM-powered filtering mechanisms that effectively identified and removed low-quality and irrelevant profiles, maintaining platform integrity
 
 **Tech Stack**: Python, LLMs (GPT, Gemini, Claude, Llama), LangChain, Web Scraping, Text Extraction, RAG, NLP
 
@@ -131,7 +130,7 @@ const Hardik Jain = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 
 <div align="center">
 
@@ -256,13 +255,11 @@ const Hardik Jain = {
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 
 <div align="center">
 
 ## ⚡ Tech Arsenal
-
-*The tools that bring ideas to life*
 
 </div>
 
@@ -327,7 +324,7 @@ const Hardik Jain = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 
 <div align="center">
 
@@ -356,7 +353,7 @@ const Hardik Jain = {
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 
 <div align="center">
 
@@ -389,7 +386,7 @@ const Hardik Jain = {
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 
 <div align="center">
 
@@ -404,7 +401,7 @@ const Hardik Jain = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 
 <div align="center">
 
@@ -434,7 +431,7 @@ const Hardik Jain = {
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 
 <div align="center">
 
